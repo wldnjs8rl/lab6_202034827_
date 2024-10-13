@@ -7,7 +7,7 @@
 ## 1. Git의 중요성
 - **Git**은 software 개발뿐만 아니라 문서 작업에서도 매우 중요한 version control 도구
 - 여러 사람이 함께 작업할 때는 version control이 중요하다
-- 
+  
 ---
 
 ## 2. version control 방식
